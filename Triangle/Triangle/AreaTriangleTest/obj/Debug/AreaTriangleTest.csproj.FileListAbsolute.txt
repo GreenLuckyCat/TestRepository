@@ -1,0 +1,9 @@
+D:\VisualStudio\Projects\Triangle\AreaTriangleTest\bin\Debug\AreaTriangleTest.dll
+D:\VisualStudio\Projects\Triangle\AreaTriangleTest\bin\Debug\AreaTriangleTest.pdb
+D:\VisualStudio\Projects\Triangle\AreaTriangleTest\bin\Debug\nunit.framework.dll
+D:\VisualStudio\Projects\Triangle\AreaTriangleTest\bin\Debug\Triangle.dll
+D:\VisualStudio\Projects\Triangle\AreaTriangleTest\bin\Debug\Triangle.pdb
+D:\VisualStudio\Projects\Triangle\AreaTriangleTest\bin\Debug\nunit.framework.xml
+D:\VisualStudio\Projects\Triangle\AreaTriangleTest\obj\Debug\AreaTriangleTest.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Projects\Triangle\AreaTriangleTest\obj\Debug\AreaTriangleTest.dll
+D:\VisualStudio\Projects\Triangle\AreaTriangleTest\obj\Debug\AreaTriangleTest.pdb
